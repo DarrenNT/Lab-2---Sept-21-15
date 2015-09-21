@@ -1,0 +1,10 @@
+-- WARNING: The numbers on start are always the same but technically random
+
+-- MAKING THE FILE:
+1. Open command prompt
+2. Change your directory to the "Lab2" folder.
+3. Type "make"
+4. Type "./diceGame"
+
+Enjoy
+
